@@ -90,12 +90,12 @@ This assignment should prove that a student is able to:
   - Modern Design: modern-design.html
   - Space: space.html
 - [x] Add the path to the index.html file for the "Back to Home Page" link
-- [ ] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
+- [x] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
   - [More Plants Images](https://unsplash.com/s/photos/plants)
   - [More Nature Images](https://unsplash.com/s/photos/nature)
   - [More Space Images](https://unsplash.com/s/photos/space)
   - [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
-- [ ] Add the detail page path for each bottom navigation item:
+- [x] Add the detail page path for each bottom navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
